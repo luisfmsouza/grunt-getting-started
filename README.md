@@ -1,2 +1,2 @@
 # grunt-getting-started
-Basic example of package.json and Gruntfile.js
+Simple example of package.json and Gruntfile.js

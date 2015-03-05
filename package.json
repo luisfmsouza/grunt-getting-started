@@ -1,0 +1,29 @@
+{
+  "name": "grunt-getting-started",
+  "version": "0.0.0",
+  "description": "Simple example of Grunt basic files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisfmsouza/grunt-getting-started.git"
+  },
+  "keywords": [
+    "grunt",
+    "package",
+    "json",
+    "gruntfile"
+  ],
+  "author": "Luis Felipe Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisfmsouza/grunt-getting-started/issues"
+  },
+  "homepage": "https://github.com/luisfmsouza/grunt-getting-started",
+  "devDependecies": {
+    "grunt": ">=0.4.0",
+    "grunt-contrib-uglify": "~0.8.0"
+  }
+}
