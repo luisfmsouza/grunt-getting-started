@@ -24,6 +24,8 @@
   "homepage": "https://github.com/luisfmsouza/grunt-getting-started",
   "devDependecies": {
     "grunt": ">=0.4.0",
-    "grunt-contrib-uglify": "~0.8.0"
+    "grunt-contrib-uglify": "~0.8.0",
+    "grunt-browser-sync": ">=2.0.0",
+    "grunt-contrib-imagemin": ">=0.9.3 ",
   }
 }
