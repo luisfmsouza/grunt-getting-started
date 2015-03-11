@@ -1,8 +1,8 @@
 module.exports = function(grunt) {
   grunt.config('browserSync', {
-    dev: {
+    build: {
       bsFiles: {
-        src : '<%= path.source.css %>*.css'
+        src : '<%= path.dest.css %>*.css'
       },
       options: {
         server: {

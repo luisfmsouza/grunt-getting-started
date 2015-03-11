@@ -3,7 +3,7 @@ module.exports = function (grunt) {
 
     build: {
       files: ['<%= path.source.css %>*.css', '<%= path.source.js %>*.js'],
-      tasks: ['css', 'js']
+      tasks: ['css', '']
     }
 
   });

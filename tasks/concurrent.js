@@ -1,9 +1,7 @@
 module.exports = function (grunt) {
   grunt.config('concurrent', {
-    dev: {
-      tasks: [
-        'watch:build'
-      ],
+    build: {
+      tasks: ['watch', 'sync'],
       options: {
         logConcurrentOutput: true
       }

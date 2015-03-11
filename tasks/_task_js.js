@@ -1,3 +1,3 @@
 module.exports = function(grunt) {
-  grunt.registerTask('js', [/*'jshint:build', 'jslint:build',*/ 'uglify:build']);
+  grunt.registerTask('js', ['jslint:build', 'jshint:build', 'uglify:build']);
 };

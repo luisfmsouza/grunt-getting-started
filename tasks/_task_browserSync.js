@@ -1,3 +1,3 @@
 module.exports = function(grunt) {
-  grunt.registerTask('sync', ['browserSync']);
+  grunt.registerTask('sync', ['browserSync:build']);
 };
