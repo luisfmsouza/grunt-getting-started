@@ -13,3 +13,4 @@ This example include a basic settings for usefull NodeJS modules, like:
 - grunt-jslint
 - grunt-contrib-jshint
 - grunt-contrib-uglify
+* [grunt-autoprefixer]
