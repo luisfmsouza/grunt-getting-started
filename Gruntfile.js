@@ -7,12 +7,17 @@ module.exports = function (grunt) {
     path : {
       source : {
         css : "../src/css/",
+        sass : "../src/sass/",
         js : "../src/js/",
-        images : "../images/"
+        images : "../images/",
+        images1 : "../images/sprite1/",
+        images2 : "../images/sprite2/"
       },
       dest : {
         css : "../css/",
-        js : "../js/"
+        sass : "../css/",
+        js : "../js/",
+        images: "../images/"
       }
     }
   });

@@ -14,3 +14,5 @@ This example include a basic settings for usefull NodeJS modules, like:
 * [grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch)
 * [grunt-jslint](https://github.com/stephenmathieson/grunt-jslint)
 * [load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks)
+* [grunt-contrib-sass](https://github.com/gruntjs/grunt-contrib-sass)
+* [grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith)
