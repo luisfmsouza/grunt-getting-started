@@ -1,7 +1,7 @@
 # grunt-getting-started
 Simple example of package.json and Gruntfile.js files.
 
-This example include a basic settings for usefull NodeJS modules, like:
+This project include a basic settings for usefull NodeJS modules, like:
 
 * [grunt-autoprefixer](https://github.com/nDmitry/grunt-autoprefixer)
 * [grunt-browser-sync](https://github.com/BrowserSync/grunt-browser-sync)
